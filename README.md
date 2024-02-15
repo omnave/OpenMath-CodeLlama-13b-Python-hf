@@ -13,7 +13,7 @@ tags:
 ---
 
 
-# OpenMath-CodeLlama-13b-Python
+# OpenMath-CodeLlama-13b-Python-hf
 
 OpenMath models were designed to solve mathematical problems by integrating text-based reasoning with code blocks
 executed by Python interpreter. The models were trained on [OpenMathInstruct-1](https://huggingface.co/datasets/nvidia/OpenMathInstruct-1),
