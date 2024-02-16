@@ -83,6 +83,8 @@ The pipeline we used to produce these models is fully open-sourced!
 - [Models](https://huggingface.co/collections/nvidia/openmath-65c5619de2ba059be0775014)
 - [Dataset](https://huggingface.co/datasets/nvidia/OpenMathInstruct-1)
 
+See our [paper](https://arxiv.org/abs/2402.10176) for more details!
+
 # How to use the models?
 
 Try to [run inference with our models](https://github.com/Kipok/NeMo-Skills/blob/main/docs/inference.md) with just a few commands!
@@ -109,7 +111,14 @@ offering enterprises an easy, cost-effective, and fast way to adopt generative A
 
 If you find our work useful, please consider citing us!
 
-TODO
+```bibtex
+@article{toshnival2024openmath,
+  title   = {OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset},
+  author  = {Shubham Toshniwal and Ivan Moshkov and Sean Narenthiran and Daria Gitman and Fei Jia and Igor Gitman},
+  year    = {2024},
+  journal = {arXiv preprint arXiv: Arxiv-2402.10176}
+}
+```
 
 # License
 
