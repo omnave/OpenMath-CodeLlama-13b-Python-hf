@@ -112,7 +112,7 @@ offering enterprises an easy, cost-effective, and fast way to adopt generative A
 If you find our work useful, please consider citing us!
 
 ```bibtex
-@article{toshnival2024openmath,
+@article{toshniwal2024openmath,
   title   = {OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset},
   author  = {Shubham Toshniwal and Ivan Moshkov and Sean Narenthiran and Daria Gitman and Fei Jia and Igor Gitman},
   year    = {2024},
